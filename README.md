@@ -1,2 +1,4 @@
 # Unrelated
-DELTARUNE, but re-written using my keyboard's suggestions
+DELTARUNE, but re-written using my keyboard's suggestions,
+
+!!THIS MOD DOES NOT REDESTRUBUTE DELTARUNE DATA.WINs, YOU NEED TO PATH YOURS USING DELTAPATCHER!!
